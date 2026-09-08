@@ -2,16 +2,16 @@ about:
   description: "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. "
   license: NOASSERTION
   homepage: 
-  head: d7ede79
+  head: 6785561
   archived: false
   latestVersion: "v1.0.84-1"
-  collectedAt: 2026-09-08T01:28:20Z
+  collectedAt: 2026-09-08T03:30:44Z
 timeline:
   created: 2023-01-06
-  lastCommit: 2026-09-04
+  lastCommit: 2026-09-08
   lastRelease: 2026-09-04
 popularity:
-  star: 11142
+  star: 11143
   watcher: 270
   fork: 1918
   release: 419
@@ -19,70 +19,70 @@ popularity:
   pullRequest: 193
   issue: 4211
 language:
-  Shell: 6922
-totalBytes: 6922
+  Shell: 7018
+totalBytes: 7018
 recent:
   last30d:
     since: 2026-08-09
     release: 33
-    mergedPR: 3
-    openPR: 10
+    mergedPR: 4
+    openPR: 9
     closedIssue: 38
     openIssue: 276
-    commit: 5
+    commit: 0
   last60d:
     since: 2026-07-10
     release: 72
-    mergedPR: 3
-    openPR: 14
+    mergedPR: 4
+    openPR: 13
     closedIssue: 124
     openIssue: 496
-    commit: 16
+    commit: 0
   last90d:
     since: 2026-06-10
     release: 95
-    mergedPR: 3
-    openPR: 22
+    mergedPR: 4
+    openPR: 21
     closedIssue: 220
     openIssue: 710
-    commit: 24
+    commit: 0
   last180d:
     since: 2026-03-12
     release: 100
-    mergedPR: 6
-    openPR: 33
-    closedIssue: 813
-    openIssue: 1734
-    commit: 81
+    mergedPR: 7
+    openPR: 32
+    closedIssue: 814
+    openIssue: 1733
+    commit: 0
   last360d:
     since: 2025-09-13
     release: 100
-    mergedPR: 42
-    openPR: 40
-    closedIssue: 1938
-    openIssue: 2273
-    commit: 270
+    mergedPR: 43
+    openPR: 39
+    closedIssue: 1939
+    openIssue: 2272
+    commit: 0
   last720d:
     since: 2024-09-18
     release: 100
-    mergedPR: 42
-    openPR: 40
-    closedIssue: 1938
-    openIssue: 2273
-    commit: 313
+    mergedPR: 43
+    openPR: 39
+    closedIssue: 1939
+    openIssue: 2272
+    commit: 316
 total:
   release: 419
-  mergedPR: 46
-  openPR: 40
-  closedIssue: 1938
-  openIssue: 2273
-  commit: 313
+  mergedPR: 47
+  openPR: 39
+  closedIssue: 1939
+  openIssue: 2272
+  commit: 316
 ---
 path: /home/runner/.x-repo/github.com/github/copilot-cli
-collectedAt: 2026-09-08T01:28:21Z
+collectedAt: 2026-09-08T03:30:45Z
 loc:
   Sh:
-    code: 157
+    code: 159
     comments: 22
     blanks: 17
     files: 1
@@ -92,7 +92,7 @@ loc:
     blanks: 427
     files: 3
 total:
-  code: 190
+  code: 192
   comments: 2874
   blanks: 444
   files: 4

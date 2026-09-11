@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.84-4"
   latestRelease: "v1.0.83"
   latestPrerelease: "v1.0.84-4"
-  collectedAt: 2026-09-11T03:29:47Z
+  collectedAt: 2026-09-11T20:50:55Z
 timeline:
   created: 2023-01-06
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 2026-09-10
 popularity:
-  star: 11156
-  watcher: 271
-  fork: 1925
+  star: 11163
+  watcher: 270
+  fork: 1926
   release: 422
   contributor: 249
   pullRequest: 196
-  issue: 4257
+  issue: 4267
 language:
   Shell: 7018
 totalBytes: 7018
@@ -32,58 +32,58 @@ recent:
     mergedPR: 4
     openPR: 9
     closedIssue: 39
-    openIssue: 279
+    openIssue: 289
     commit: 8
   last60d:
     since: 2026-07-13
     release: 73
     mergedPR: 5
     openPR: 13
-    closedIssue: 126
-    openIssue: 523
+    closedIssue: 127
+    openIssue: 532
     commit: 19
   last90d:
     since: 2026-06-13
     release: 97
     mergedPR: 5
     openPR: 20
-    closedIssue: 213
-    openIssue: 732
+    closedIssue: 214
+    openIssue: 741
     commit: 27
   last180d:
     since: 2026-03-15
     release: 100
     mergedPR: 8
     openPR: 32
-    closedIssue: 800
-    openIssue: 1748
+    closedIssue: 801
+    openIssue: 1757
     commit: 84
   last360d:
     since: 2025-09-16
     release: 100
     mergedPR: 44
     openPR: 39
-    closedIssue: 1945
-    openIssue: 2312
+    closedIssue: 1946
+    openIssue: 2321
     commit: 273
   last720d:
     since: 2024-09-21
     release: 100
     mergedPR: 44
     openPR: 39
-    closedIssue: 1945
-    openIssue: 2312
+    closedIssue: 1946
+    openIssue: 2321
     commit: 318
 total:
   release: 422
   mergedPR: 48
   openPR: 39
-  closedIssue: 1945
-  openIssue: 2312
+  closedIssue: 1946
+  openIssue: 2321
   commit: 318
 ---
 path: /home/runner/.x-repo/github.com/github/copilot-cli
-collectedAt: 2026-09-11T03:29:47Z
+collectedAt: 2026-09-11T20:50:56Z
 loc:
   Sh:
     code: 159
@@ -103,11 +103,11 @@ total:
 ---
 
 ---
-  - cli-native.node
+  - tree-sitter.wasm
+  - tgrep
+  - tgrep
+  - rg
+  - rg
   - copilot-runtime
   - runtime.node
-  - tree-sitter.wasm
-  - rg
-  - rg
-  - tgrep
-  - tgrep
+  - cli-native.node

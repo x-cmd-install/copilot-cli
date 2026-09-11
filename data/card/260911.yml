@@ -1,0 +1,113 @@
+about:
+  description: "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. "
+  license: NOASSERTION
+  homepage: 
+  head: 1032cd0
+  archived: false
+  latestVersion: "v1.0.84-4"
+  latestRelease: "v1.0.83"
+  latestPrerelease: "v1.0.84-4"
+  collectedAt: 2026-09-11T03:29:47Z
+timeline:
+  created: 2023-01-06
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-04
+  lastPrerelease: 2026-09-10
+popularity:
+  star: 11156
+  watcher: 271
+  fork: 1925
+  release: 422
+  contributor: 249
+  pullRequest: 196
+  issue: 4257
+language:
+  Shell: 7018
+totalBytes: 7018
+recent:
+  last30d:
+    since: 2026-08-12
+    release: 35
+    mergedPR: 4
+    openPR: 9
+    closedIssue: 39
+    openIssue: 279
+    commit: 8
+  last60d:
+    since: 2026-07-13
+    release: 73
+    mergedPR: 5
+    openPR: 13
+    closedIssue: 126
+    openIssue: 523
+    commit: 19
+  last90d:
+    since: 2026-06-13
+    release: 97
+    mergedPR: 5
+    openPR: 20
+    closedIssue: 213
+    openIssue: 732
+    commit: 27
+  last180d:
+    since: 2026-03-15
+    release: 100
+    mergedPR: 8
+    openPR: 32
+    closedIssue: 800
+    openIssue: 1748
+    commit: 84
+  last360d:
+    since: 2025-09-16
+    release: 100
+    mergedPR: 44
+    openPR: 39
+    closedIssue: 1945
+    openIssue: 2312
+    commit: 273
+  last720d:
+    since: 2024-09-21
+    release: 100
+    mergedPR: 44
+    openPR: 39
+    closedIssue: 1945
+    openIssue: 2312
+    commit: 318
+total:
+  release: 422
+  mergedPR: 48
+  openPR: 39
+  closedIssue: 1945
+  openIssue: 2312
+  commit: 318
+---
+path: /home/runner/.x-repo/github.com/github/copilot-cli
+collectedAt: 2026-09-11T03:29:47Z
+loc:
+  Sh:
+    code: 159
+    comments: 22
+    blanks: 17
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2853
+    blanks: 427
+    files: 3
+total:
+  code: 192
+  comments: 2875
+  blanks: 444
+  files: 4
+---
+
+---
+  - cli-native.node
+  - copilot-runtime
+  - runtime.node
+  - tree-sitter.wasm
+  - rg
+  - rg
+  - tgrep
+  - tgrep

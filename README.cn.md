@@ -34,22 +34,22 @@ x install copilot-cli
 
 ## 流行度
 
-- **Star**: 11,167 · **Fork**: 1,926 · **开放 issue**: 4,274 · **贡献者**: 250
+- **Star**: 11,170 · **Fork**: 1,926 · **开放 issue**: 4,276 · **贡献者**: 250
 
 ## 累计统计
 
-- **发布数**: 423 · **已合并 PR**: 51 · **开放 PR**: 38 · **已关闭 issue**: 1947 · **开放 issue**: 2327 · **提交数**: 321
+- **发布数**: 423 · **已合并 PR**: 51 · **开放 PR**: 38 · **已关闭 issue**: 1948 · **开放 issue**: 2328 · **提交数**: 321
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 35 | 6 | 8 | 36 | 271 | 9 |
-| last60d | 2026-07-15 | 73 | 8 | 12 | 120 | 514 | 19 |
-| 90d | 2026-06-15 | 96 | 8 | 18 | 206 | 731 | 29 |
-| last180d | 2026-03-17 | 100 | 11 | 31 | 778 | 1735 | 82 |
-| 360d | 2025-09-18 | 100 | 47 | 38 | 1947 | 2327 | 273 |
-| last720d | 2024-09-23 | 100 | 47 | 38 | 1947 | 2327 | 321 |
+| 30d | 2026-08-15 | 32 | 6 | 8 | 36 | 271 | 9 |
+| last60d | 2026-07-16 | 71 | 8 | 12 | 117 | 507 | 19 |
+| 90d | 2026-06-16 | 95 | 8 | 18 | 201 | 726 | 29 |
+| last180d | 2026-03-18 | 100 | 11 | 31 | 763 | 1721 | 82 |
+| 360d | 2025-09-19 | 100 | 47 | 38 | 1948 | 2328 | 273 |
+| last720d | 2024-09-24 | 100 | 47 | 38 | 1948 | 2328 | 321 |
 
 ## Release 资产
 
@@ -76,10 +76,6 @@ x install copilot-cli
 | [github-copilot-1.0.83.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.83/github-copilot-1.0.83.tgz) | 5.3 KiB | `native/unknown` |
 | [SHA256SUMS.txt](https://github.com/github/copilot-cli/releases/download/v1.0.83/SHA256SUMS.txt) | 1.7 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/copilot-cli) 上共有 **9** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
-
 ## 改进这些数据
 
 copilot-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `copilot-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -89,4 +85,4 @@ copilot-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T03:41:33Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T03:50:24Z._

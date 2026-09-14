@@ -34,22 +34,22 @@ Total: **159** lines of code across **4** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,167 · **Forks**: 1,926 · **Open issues**: 4,274 · **Contributors**: 250
+- **Stars**: 11,170 · **Forks**: 1,926 · **Open issues**: 4,276 · **Contributors**: 250
 
 ## Totals (cumulative)
 
-- **Releases**: 423 · **Merged PRs**: 51 · **Open PRs**: 38 · **Closed issues**: 1947 · **Open issues**: 2327 · **Commits**: 321
+- **Releases**: 423 · **Merged PRs**: 51 · **Open PRs**: 38 · **Closed issues**: 1948 · **Open issues**: 2328 · **Commits**: 321
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 35 | 6 | 8 | 36 | 271 | 9 |
-| last60d | 2026-07-15 | 73 | 8 | 12 | 120 | 514 | 19 |
-| 90d | 2026-06-15 | 96 | 8 | 18 | 206 | 731 | 29 |
-| last180d | 2026-03-17 | 100 | 11 | 31 | 778 | 1735 | 82 |
-| 360d | 2025-09-18 | 100 | 47 | 38 | 1947 | 2327 | 273 |
-| last720d | 2024-09-23 | 100 | 47 | 38 | 1947 | 2327 | 321 |
+| 30d | 2026-08-15 | 32 | 6 | 8 | 36 | 271 | 9 |
+| last60d | 2026-07-16 | 71 | 8 | 12 | 117 | 507 | 19 |
+| 90d | 2026-06-16 | 95 | 8 | 18 | 201 | 726 | 29 |
+| last180d | 2026-03-18 | 100 | 11 | 31 | 763 | 1721 | 82 |
+| 360d | 2025-09-19 | 100 | 47 | 38 | 1948 | 2328 | 273 |
+| last720d | 2024-09-24 | 100 | 47 | 38 | 1948 | 2328 | 321 |
 
 ## Release assets
 
@@ -76,10 +76,6 @@ Total: **159** lines of code across **4** files in the top 5 languages.
 | [github-copilot-1.0.83.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.83/github-copilot-1.0.83.tgz) | 5.3 KiB | `native/unknown` |
 | [SHA256SUMS.txt](https://github.com/github/copilot-cli/releases/download/v1.0.83/SHA256SUMS.txt) | 1.7 KiB | `other` |
 
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/copilot-cli). **3** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for copilot-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `copilot-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +85,4 @@ Install metadata for copilot-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T03:41:33Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T03:50:24Z._

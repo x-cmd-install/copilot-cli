@@ -4,7 +4,7 @@
 
 GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 
-![copilot-cli](https://repo.x-cmd.io/copilot-cli.svg)
+[![x-cmd/install — copilot-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/copilot-cli.svg)](https://x-cmd.com/install/copilot-cli)
 
 ## Install
 
@@ -28,28 +28,28 @@ Total: **159** lines of code across **4** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.86` (2026-09-17)
+- **Latest**: `v1.0.87-0` (2026-09-17)
 - **Last commit**: 2026-09-17
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 11,181 · **Forks**: 1,928 · **Open issues**: 4,338 · **Contributors**: 250
+- **Stars**: 11,185 · **Forks**: 1,930 · **Open issues**: 4,356 · **Contributors**: 250
 
 ## Totals (cumulative)
 
-- **Releases**: 432 · **Merged PRs**: 51 · **Open PRs**: 38 · **Closed issues**: 1998 · **Open issues**: 2340 · **Commits**: 323
+- **Releases**: 433 · **Merged PRs**: 51 · **Open PRs**: 38 · **Closed issues**: 2047 · **Open issues**: 2309 · **Commits**: 323
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 40 | 6 | 7 | 42 | 298 | 11 |
-| last60d | 2026-07-20 | 77 | 8 | 12 | 125 | 526 | 21 |
-| 90d | 2026-06-20 | 100 | 8 | 16 | 199 | 746 | 31 |
-| last180d | 2026-03-22 | 100 | 11 | 31 | 776 | 1701 | 84 |
-| 360d | 2025-09-23 | 100 | 47 | 38 | 1998 | 2340 | 275 |
-| last720d | 2024-09-28 | 100 | 47 | 38 | 1998 | 2340 | 323 |
+| 30d | 2026-08-21 | 36 | 6 | 7 | 45 | 281 | 11 |
+| last60d | 2026-07-22 | 75 | 8 | 12 | 127 | 510 | 21 |
+| 90d | 2026-06-22 | 100 | 8 | 15 | 208 | 747 | 31 |
+| last180d | 2026-03-24 | 100 | 11 | 31 | 788 | 1656 | 84 |
+| 360d | 2025-09-25 | 100 | 46 | 38 | 2030 | 2307 | 275 |
+| last720d | 2024-09-30 | 100 | 47 | 38 | 2047 | 2309 | 323 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for copilot-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:39:51Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:52:25Z._

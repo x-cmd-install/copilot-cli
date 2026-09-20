@@ -4,7 +4,7 @@
 
 GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 
-![copilot-cli](https://repo.x-cmd.io/copilot-cli.svg?lang=zh)
+[![x-cmd/install — copilot-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/copilot-cli.svg?lang=zh)](https://x-cmd.com/install/copilot-cli)
 
 ## 安装
 
@@ -28,28 +28,28 @@ x install copilot-cli
 
 ## 发布
 
-- **最新版本**: `v1.0.86` (2026-09-17)
+- **最新版本**: `v1.0.87-0` (2026-09-17)
 - **最近提交**: 2026-09-17
 - **Release 含资产**: 20 个
 
 ## 流行度
 
-- **Star**: 11,181 · **Fork**: 1,928 · **开放 issue**: 4,338 · **贡献者**: 250
+- **Star**: 11,185 · **Fork**: 1,930 · **开放 issue**: 4,356 · **贡献者**: 250
 
 ## 累计统计
 
-- **发布数**: 432 · **已合并 PR**: 51 · **开放 PR**: 38 · **已关闭 issue**: 1998 · **开放 issue**: 2340 · **提交数**: 323
+- **发布数**: 433 · **已合并 PR**: 51 · **开放 PR**: 38 · **已关闭 issue**: 2047 · **开放 issue**: 2309 · **提交数**: 323
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 40 | 6 | 7 | 42 | 298 | 11 |
-| last60d | 2026-07-20 | 77 | 8 | 12 | 125 | 526 | 21 |
-| 90d | 2026-06-20 | 100 | 8 | 16 | 199 | 746 | 31 |
-| last180d | 2026-03-22 | 100 | 11 | 31 | 776 | 1701 | 84 |
-| 360d | 2025-09-23 | 100 | 47 | 38 | 1998 | 2340 | 275 |
-| last720d | 2024-09-28 | 100 | 47 | 38 | 1998 | 2340 | 323 |
+| 30d | 2026-08-21 | 36 | 6 | 7 | 45 | 281 | 11 |
+| last60d | 2026-07-22 | 75 | 8 | 12 | 127 | 510 | 21 |
+| 90d | 2026-06-22 | 100 | 8 | 15 | 208 | 747 | 31 |
+| last180d | 2026-03-24 | 100 | 11 | 31 | 788 | 1656 | 84 |
+| 360d | 2025-09-25 | 100 | 46 | 38 | 2030 | 2307 | 275 |
+| last720d | 2024-09-30 | 100 | 47 | 38 | 2047 | 2309 | 323 |
 
 ## Release 资产
 
@@ -85,4 +85,4 @@ copilot-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T03:39:51Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T03:52:25Z._

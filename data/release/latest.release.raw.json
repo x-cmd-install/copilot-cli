@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 83734528,
       "digest": "sha256:e1b5430bf2379b9673d93c9028a03c3cf2d6a5120ed3d813d8b3fbbb6e4ced50",
-      "download_count": 121,
+      "download_count": 139,
       "created_at": "2026-09-17T22:57:27Z",
       "updated_at": "2026-09-17T22:57:35Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/copilot-arm64.msi"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 87786742,
       "digest": "sha256:a242a106b9b47f23cf02f354113a86c5efc6f69a4e175265f7c9bc509daa7789",
-      "download_count": 48944,
+      "download_count": 57839,
       "created_at": "2026-09-17T22:57:19Z",
       "updated_at": "2026-09-17T22:57:27Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/copilot-darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 99076401,
       "digest": "sha256:f1f2cfd1f2b54d492365b4ceefb473cc84530b970ac8c9e49e2f539133016cd1",
-      "download_count": 1936,
+      "download_count": 2373,
       "created_at": "2026-09-17T22:57:19Z",
       "updated_at": "2026-09-17T22:57:27Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/copilot-darwin-x64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 99469740,
       "digest": "sha256:3c0e1f939931ddf19cf4d6a2d77922afb937dbfa8d373fe623b8befab5bd7fdb",
-      "download_count": 2700,
+      "download_count": 3350,
       "created_at": "2026-09-17T22:57:19Z",
       "updated_at": "2026-09-17T22:57:27Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/copilot-linux-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 97598899,
       "digest": "sha256:ea4a519d7b2ff54e9c7d10ae9921cf4ab3f5041489ec340852f47f4f63fc535b",
-      "download_count": 153350,
+      "download_count": 203986,
       "created_at": "2026-09-17T22:57:27Z",
       "updated_at": "2026-09-17T22:57:35Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/copilot-linux-x64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 98770615,
       "digest": "sha256:5fb2b90ba32edd420cd58f8e7ebb3633f6018ea0724c49c917c91e02416e944f",
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2026-09-17T22:57:27Z",
       "updated_at": "2026-09-17T22:57:36Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/copilot-linuxmusl-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 101725187,
       "digest": "sha256:a4d1b11f5ccb73f0c1a24be5ced8bd131073ea47b486d17ad72bf8fdf657f20e",
-      "download_count": 2516,
+      "download_count": 3653,
       "created_at": "2026-09-17T22:57:27Z",
       "updated_at": "2026-09-17T22:57:36Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/copilot-linuxmusl-x64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 89428847,
       "digest": "sha256:f14f851928696ec0a270164f50e3e046be123221c429959bffe0defacb313145",
-      "download_count": 1915,
+      "download_count": 2100,
       "created_at": "2026-09-17T22:57:19Z",
       "updated_at": "2026-09-17T22:57:26Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/copilot-win32-arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 89259739,
       "digest": "sha256:8574378692d5bf163f1d731e65e62122228b9670c1d4761d9cf71fc0f0e1c6f1",
-      "download_count": 72956,
+      "download_count": 82692,
       "created_at": "2026-09-17T22:57:19Z",
       "updated_at": "2026-09-17T22:57:27Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/copilot-win32-x64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 83148800,
       "digest": "sha256:c7c70511a38940b134ac68d6b3dc87e3b29f12ccf5a15b8896eff0325af13a5f",
-      "download_count": 2267,
+      "download_count": 2974,
       "created_at": "2026-09-17T22:57:28Z",
       "updated_at": "2026-09-17T22:57:35Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/copilot-x64.msi"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 52725438,
       "digest": "sha256:4d84fc768c3f2682408b7b1f26c0b9a9d2a0bea4be53c5fac9e602cea7b23ae7",
-      "download_count": 63677,
+      "download_count": 73362,
       "created_at": "2026-09-17T22:57:35Z",
       "updated_at": "2026-09-17T22:57:41Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/github-copilot-1.0.86-darwin-arm64.tgz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 61793295,
       "digest": "sha256:a3bd18de69b7215e35596f5e0236b0d9f3cb89070c1e0d4810201a74a6ecb69a",
-      "download_count": 2008,
+      "download_count": 2890,
       "created_at": "2026-09-17T22:57:36Z",
       "updated_at": "2026-09-17T22:57:42Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/github-copilot-1.0.86-darwin-x64.tgz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 60395825,
       "digest": "sha256:ed4807d51ab820447004b0a0ca8a5f08637fe6a3b0d8db739ffd031eca85a8ca",
-      "download_count": 3886,
+      "download_count": 4493,
       "created_at": "2026-09-17T22:57:36Z",
       "updated_at": "2026-09-17T22:57:42Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/github-copilot-1.0.86-linux-arm64.tgz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 58001824,
       "digest": "sha256:53284019748ac198c3dbcf9ba17f0541c8fcaaee16e6c644eb0e7285cdfd6112",
-      "download_count": 199704,
+      "download_count": 245454,
       "created_at": "2026-09-17T22:57:36Z",
       "updated_at": "2026-09-17T22:57:42Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/github-copilot-1.0.86-linux-x64.tgz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 59535929,
       "digest": "sha256:3fde231a4e84dac855dd0db80297fd6bdf5dc1dd919e31a95eb3fbbfa2af9255",
-      "download_count": 2538,
+      "download_count": 3682,
       "created_at": "2026-09-17T22:57:41Z",
       "updated_at": "2026-09-17T22:57:44Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/github-copilot-1.0.86-linuxmusl-x64.tgz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 58648102,
       "digest": "sha256:ab7a4d657b5b0b9b53ae47740f049cfbcf9ce01f03316268d4ddb53bc0dc006e",
-      "download_count": 1819,
+      "download_count": 1917,
       "created_at": "2026-09-17T22:57:42Z",
       "updated_at": "2026-09-17T22:57:46Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/github-copilot-1.0.86-win32-arm64.tgz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 54425023,
       "digest": "sha256:1d66fa4f62abc79728fdff74b8502d96c149959590bc4590118d26f447f06d4c",
-      "download_count": 90729,
+      "download_count": 103140,
       "created_at": "2026-09-17T22:57:42Z",
       "updated_at": "2026-09-17T22:57:46Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/github-copilot-1.0.86-win32-x64.tgz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 5452,
       "digest": "sha256:4c6433345f08199e96dcf8db1c3e46a337dfab96cea32132d6127ffcd63a6200",
-      "download_count": 24808,
+      "download_count": 35424,
       "created_at": "2026-09-17T22:57:35Z",
       "updated_at": "2026-09-17T22:57:35Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/github-copilot-1.0.86.tgz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 1740,
       "digest": "sha256:5dbafd543fe3c34f313160dd98ada828583cb7f4670f974cde99dee58a25c42f",
-      "download_count": 28667,
+      "download_count": 44034,
       "created_at": "2026-09-17T22:57:35Z",
       "updated_at": "2026-09-17T22:57:35Z",
       "browser_download_url": "https://github.com/github/copilot-cli/releases/download/v1.0.86/SHA256SUMS.txt"

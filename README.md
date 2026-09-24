@@ -28,28 +28,28 @@ Total: **159** lines of code across **4** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.89-0` (2026-09-22)
+- **Latest**: `v1.0.89-1` (2026-09-22)
 - **Last commit**: 2026-09-22
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 11,194 · **Forks**: 1,932 · **Open issues**: 4,388 · **Contributors**: 249
+- **Stars**: 11,195 · **Forks**: 1,935 · **Open issues**: 4,399 · **Contributors**: 250
 
 ## Totals (cumulative)
 
-- **Releases**: 439 · **Merged PRs**: 51 · **Open PRs**: 38 · **Closed issues**: 2119 · **Open issues**: 2269 · **Commits**: 325
+- **Releases**: 440 · **Merged PRs**: 51 · **Open PRs**: 39 · **Closed issues**: 2148 · **Open issues**: 2251 · **Commits**: 325
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 40 | 6 | 6 | 44 | 287 | 12 |
-| last60d | 2026-07-25 | 75 | 8 | 12 | 126 | 519 | 21 |
-| 90d | 2026-06-25 | 100 | 8 | 14 | 205 | 733 | 31 |
-| last180d | 2026-03-27 | 100 | 10 | 31 | 810 | 1589 | 81 |
-| 360d | 2025-09-28 | 100 | 44 | 38 | 2038 | 2258 | 251 |
-| last720d | 2024-10-03 | 100 | 47 | 38 | 2119 | 2269 | 325 |
+| 30d | 2026-08-25 | 40 | 6 | 7 | 47 | 282 | 12 |
+| last60d | 2026-07-26 | 76 | 8 | 13 | 129 | 518 | 21 |
+| 90d | 2026-06-26 | 100 | 8 | 15 | 211 | 723 | 31 |
+| last180d | 2026-03-28 | 100 | 10 | 32 | 821 | 1564 | 81 |
+| 360d | 2025-09-29 | 100 | 44 | 39 | 2046 | 2240 | 251 |
+| last720d | 2024-10-04 | 100 | 47 | 39 | 2148 | 2251 | 325 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for copilot-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T03:45:45Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T03:36:57Z._

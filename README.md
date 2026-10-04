@@ -34,22 +34,22 @@ Total: **159** lines of code across **4** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,236 · **Forks**: 1,953 · **Open issues**: 4,484 · **Contributors**: 249
+- **Stars**: 11,235 · **Forks**: 1,954 · **Open issues**: 4,488 · **Contributors**: 249
 
 ## Totals (cumulative)
 
-- **Releases**: 463 · **Merged PRs**: 51 · **Open PRs**: 42 · **Closed issues**: 2347 · **Open issues**: 2137 · **Commits**: 328
+- **Releases**: 463 · **Merged PRs**: 51 · **Open PRs**: 42 · **Closed issues**: 2354 · **Open issues**: 2134 · **Commits**: 328
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 49 | 5 | 8 | 51 | 258 | 14 |
-| last60d | 2026-08-04 | 86 | 8 | 13 | 136 | 500 | 21 |
-| 90d | 2026-07-05 | 100 | 8 | 17 | 253 | 692 | 31 |
-| last180d | 2026-04-06 | 100 | 8 | 34 | 876 | 1451 | 78 |
-| 360d | 2025-10-08 | 100 | 42 | 42 | 2165 | 2107 | 248 |
-| last720d | 2024-10-13 | 100 | 47 | 42 | 2347 | 2137 | 328 |
+| 30d | 2026-09-04 | 48 | 5 | 8 | 50 | 248 | 14 |
+| last60d | 2026-08-05 | 85 | 8 | 13 | 135 | 493 | 21 |
+| 90d | 2026-07-06 | 100 | 8 | 17 | 253 | 691 | 31 |
+| last180d | 2026-04-07 | 100 | 8 | 33 | 873 | 1435 | 78 |
+| 360d | 2025-10-09 | 100 | 42 | 42 | 2164 | 2102 | 248 |
+| last720d | 2024-10-14 | 100 | 47 | 42 | 2354 | 2134 | 328 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for copilot-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T04:14:31Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T04:45:56Z._

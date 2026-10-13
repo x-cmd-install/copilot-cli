@@ -19,7 +19,7 @@ x install copilot-cli
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Sh | 159 | 22 | 17 | 1 |
-| Markdown | 0 | 3,157 | 449 | 3 |
+| Markdown | 0 | 3,167 | 451 | 3 |
 
 ## 源代码
 
@@ -28,53 +28,53 @@ x install copilot-cli
 
 ## 发布
 
-- **最新版本**: `v1.0.96-2` (2026-10-09)
-- **最近提交**: 2026-10-09
+- **最新版本**: `v1.0.97-2` (2026-10-12)
+- **最近提交**: 2026-10-12
 - **Release 含资产**: 20 个
 
 ## 流行度
 
-- **Star**: 11,250 · **Fork**: 1,962 · **开放 issue**: 4,553 · **贡献者**: 249
+- **Star**: 11,249 · **Fork**: 1,961 · **开放 issue**: 4,564 · **贡献者**: 249
 
 ## 累计统计
 
-- **发布数**: 487 · **已合并 PR**: 51 · **开放 PR**: 44 · **已关闭 issue**: 2411 · **开放 issue**: 2142 · **提交数**: 332
+- **发布数**: 491 · **已合并 PR**: 51 · **开放 PR**: 44 · **已关闭 issue**: 2422 · **开放 issue**: 2142 · **提交数**: 333
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 64 | 0 | 6 | 39 | 238 | 9 |
-| last60d | 2026-08-13 | 100 | 7 | 14 | 127 | 472 | 20 |
-| 90d | 2026-07-14 | 100 | 8 | 18 | 251 | 675 | 32 |
-| last180d | 2026-04-15 | 100 | 8 | 35 | 830 | 1381 | 67 |
-| 360d | 2025-10-17 | 100 | 42 | 44 | 2169 | 2094 | 239 |
-| last720d | 2024-10-22 | 100 | 47 | 44 | 2411 | 2142 | 332 |
+| 30d | 2026-09-13 | 68 | 0 | 6 | 45 | 241 | 10 |
+| last60d | 2026-08-14 | 100 | 6 | 14 | 132 | 462 | 21 |
+| 90d | 2026-07-15 | 100 | 8 | 18 | 256 | 664 | 33 |
+| last180d | 2026-04-16 | 100 | 8 | 35 | 820 | 1362 | 68 |
+| 360d | 2025-10-18 | 100 | 42 | 44 | 2170 | 2094 | 240 |
+| last720d | 2024-10-23 | 100 | 47 | 44 | 2422 | 2142 | 333 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [copilot-arm64.msi](https://github.com/github/copilot-cli/releases/download/v1.0.95/copilot-arm64.msi) | 90.1 MiB | `other` |
-| [copilot-darwin-arm64.tar.gz](https://github.com/github/copilot-cli/releases/download/v1.0.95/copilot-darwin-arm64.tar.gz) | 98.5 MiB | `native/darwin/arm64` |
-| [copilot-darwin-x64.tar.gz](https://github.com/github/copilot-cli/releases/download/v1.0.95/copilot-darwin-x64.tar.gz) | 110.8 MiB | `native/darwin/x64` |
-| [copilot-linux-arm64.tar.gz](https://github.com/github/copilot-cli/releases/download/v1.0.95/copilot-linux-arm64.tar.gz) | 110.6 MiB | `native/linux/arm64` |
-| [copilot-linux-x64.tar.gz](https://github.com/github/copilot-cli/releases/download/v1.0.95/copilot-linux-x64.tar.gz) | 109.2 MiB | `native/unknown` |
-| [copilot-linuxmusl-arm64.tar.gz](https://github.com/github/copilot-cli/releases/download/v1.0.95/copilot-linuxmusl-arm64.tar.gz) | 110.0 MiB | `native/linux/arm64/musl` |
-| [copilot-linuxmusl-x64.tar.gz](https://github.com/github/copilot-cli/releases/download/v1.0.95/copilot-linuxmusl-x64.tar.gz) | 113.2 MiB | `native/unknown` |
-| [copilot-win32-arm64.zip](https://github.com/github/copilot-cli/releases/download/v1.0.95/copilot-win32-arm64.zip) | 95.5 MiB | `native/win/arm64` |
-| [copilot-win32-x64.zip](https://github.com/github/copilot-cli/releases/download/v1.0.95/copilot-win32-x64.zip) | 94.9 MiB | `native/win/x64` |
-| [copilot-x64.msi](https://github.com/github/copilot-cli/releases/download/v1.0.95/copilot-x64.msi) | 89.1 MiB | `other` |
-| [github-copilot-1.0.95-darwin-arm64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.95/github-copilot-1.0.95-darwin-arm64.tgz) | 65.0 MiB | `native/darwin/arm64` |
-| [github-copilot-1.0.95-darwin-x64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.95/github-copilot-1.0.95-darwin-x64.tgz) | 75.2 MiB | `native/darwin/x64` |
-| [github-copilot-1.0.95-linux-arm64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.95/github-copilot-1.0.95-linux-arm64.tgz) | 73.4 MiB | `native/linux/arm64` |
-| [github-copilot-1.0.95-linux-x64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.95/github-copilot-1.0.95-linux-x64.tgz) | 71.5 MiB | `native/unknown` |
-| [github-copilot-1.0.95-linuxmusl-arm64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.95/github-copilot-1.0.95-linuxmusl-arm64.tgz) | 70.2 MiB | `native/linux/arm64/musl` |
-| [github-copilot-1.0.95-linuxmusl-x64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.95/github-copilot-1.0.95-linuxmusl-x64.tgz) | 73.0 MiB | `native/unknown` |
-| [github-copilot-1.0.95-win32-arm64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.95/github-copilot-1.0.95-win32-arm64.tgz) | 66.2 MiB | `native/win/arm64` |
-| [github-copilot-1.0.95-win32-x64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.95/github-copilot-1.0.95-win32-x64.tgz) | 61.7 MiB | `native/win/x64` |
-| [github-copilot-1.0.95.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.95/github-copilot-1.0.95.tgz) | 5.3 KiB | `native/unknown` |
-| [SHA256SUMS.txt](https://github.com/github/copilot-cli/releases/download/v1.0.95/SHA256SUMS.txt) | 1.7 KiB | `other` |
+| [copilot-arm64.msi](https://github.com/github/copilot-cli/releases/download/v1.0.96/copilot-arm64.msi) | 91.2 MiB | `other` |
+| [copilot-darwin-arm64.tar.gz](https://github.com/github/copilot-cli/releases/download/v1.0.96/copilot-darwin-arm64.tar.gz) | 99.6 MiB | `native/darwin/arm64` |
+| [copilot-darwin-x64.tar.gz](https://github.com/github/copilot-cli/releases/download/v1.0.96/copilot-darwin-x64.tar.gz) | 112.1 MiB | `native/darwin/x64` |
+| [copilot-linux-arm64.tar.gz](https://github.com/github/copilot-cli/releases/download/v1.0.96/copilot-linux-arm64.tar.gz) | 111.8 MiB | `native/linux/arm64` |
+| [copilot-linux-x64.tar.gz](https://github.com/github/copilot-cli/releases/download/v1.0.96/copilot-linux-x64.tar.gz) | 110.4 MiB | `native/unknown` |
+| [copilot-linuxmusl-arm64.tar.gz](https://github.com/github/copilot-cli/releases/download/v1.0.96/copilot-linuxmusl-arm64.tar.gz) | 111.1 MiB | `native/linux/arm64/musl` |
+| [copilot-linuxmusl-x64.tar.gz](https://github.com/github/copilot-cli/releases/download/v1.0.96/copilot-linuxmusl-x64.tar.gz) | 114.4 MiB | `native/unknown` |
+| [copilot-win32-arm64.zip](https://github.com/github/copilot-cli/releases/download/v1.0.96/copilot-win32-arm64.zip) | 96.7 MiB | `native/win/arm64` |
+| [copilot-win32-x64.zip](https://github.com/github/copilot-cli/releases/download/v1.0.96/copilot-win32-x64.zip) | 96.1 MiB | `native/win/x64` |
+| [copilot-x64.msi](https://github.com/github/copilot-cli/releases/download/v1.0.96/copilot-x64.msi) | 90.3 MiB | `other` |
+| [github-copilot-1.0.96-darwin-arm64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.96/github-copilot-1.0.96-darwin-arm64.tgz) | 66.2 MiB | `native/darwin/arm64` |
+| [github-copilot-1.0.96-darwin-x64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.96/github-copilot-1.0.96-darwin-x64.tgz) | 76.4 MiB | `native/darwin/x64` |
+| [github-copilot-1.0.96-linux-arm64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.96/github-copilot-1.0.96-linux-arm64.tgz) | 74.5 MiB | `native/linux/arm64` |
+| [github-copilot-1.0.96-linux-x64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.96/github-copilot-1.0.96-linux-x64.tgz) | 72.7 MiB | `native/unknown` |
+| [github-copilot-1.0.96-linuxmusl-arm64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.96/github-copilot-1.0.96-linuxmusl-arm64.tgz) | 71.4 MiB | `native/linux/arm64/musl` |
+| [github-copilot-1.0.96-linuxmusl-x64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.96/github-copilot-1.0.96-linuxmusl-x64.tgz) | 74.2 MiB | `native/unknown` |
+| [github-copilot-1.0.96-win32-arm64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.96/github-copilot-1.0.96-win32-arm64.tgz) | 67.3 MiB | `native/win/arm64` |
+| [github-copilot-1.0.96-win32-x64.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.96/github-copilot-1.0.96-win32-x64.tgz) | 62.9 MiB | `native/win/x64` |
+| [github-copilot-1.0.96.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.96/github-copilot-1.0.96.tgz) | 5.3 KiB | `native/unknown` |
+| [SHA256SUMS.txt](https://github.com/github/copilot-cli/releases/download/v1.0.96/SHA256SUMS.txt) | 1.7 KiB | `other` |
 
 ## 改进这些数据
 
@@ -85,4 +85,4 @@ copilot-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T04:48:23Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T05:52:12Z._

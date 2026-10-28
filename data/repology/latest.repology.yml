@@ -25,7 +25,7 @@
 - repo: homebrew_casks
   srcname: copilot-cli
   visiblename: GitHub Copilot CLI
-  version: 1.0.103
+  version: 1.0.105
   origversion: null
   status: outdated
   summary: Brings the power of Copilot coding agent directly to your terminal
@@ -33,7 +33,7 @@
   srcname: llm/copilot-cli
   binname: copilot-cli
   visiblename: copilot-cli
-  version: 1.0.103
+  version: 1.0.104
   origversion: null
   status: outdated
   summary: GitHub Copilot CLI -- AI-powered coding assistant in the terminal
@@ -92,7 +92,7 @@
   subrepo: main
   binname: copilot-cli
   visiblename: copilot-cli
-  version: 1.0.103
+  version: 1.0.105
   origversion: null
   status: outdated
   licenses:

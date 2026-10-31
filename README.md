@@ -14,12 +14,14 @@ x install copilot-cli
 
 ## Code insight
 
-Total: **159** lines of code across **4** files in the top 5 languages.
+Total: **472** lines of code across **9** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Sh | 159 | 22 | 17 | 1 |
-| Markdown | 0 | 3,310 | 467 | 3 |
+| Python | 255 | 1 | 48 | 1 |
+| Sh | 173 | 26 | 20 | 2 |
+| Dockerfile | 44 | 13 | 7 | 2 |
+| Markdown | 0 | 3,397 | 515 | 4 |
 
 ## Source
 
@@ -29,27 +31,27 @@ Total: **159** lines of code across **4** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.105` (2026-10-28)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-30
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 11,310 · **Forks**: 1,969 · **Open issues**: 4,723 · **Contributors**: 250
+- **Stars**: 11,313 · **Forks**: 1,970 · **Open issues**: 4,733 · **Contributors**: 251
 
 ## Totals (cumulative)
 
-- **Releases**: 521 · **Merged PRs**: 51 · **Open PRs**: 45 · **Closed issues**: 2581 · **Open issues**: 2142 · **Commits**: 341
+- **Releases**: 521 · **Merged PRs**: 52 · **Open PRs**: 46 · **Closed issues**: 2589 · **Open issues**: 2144 · **Commits**: 342
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 68 | 0 | 5 | 49 | 208 | 13 |
-| last60d | 2026-08-31 | 100 | 5 | 11 | 135 | 449 | 27 |
-| 90d | 2026-08-01 | 100 | 8 | 18 | 255 | 651 | 35 |
-| last180d | 2026-05-03 | 100 | 8 | 33 | 788 | 1262 | 71 |
-| 360d | 2025-11-04 | 100 | 42 | 45 | 2248 | 2086 | 240 |
-| last720d | 2024-11-09 | 100 | 47 | 45 | 2581 | 2142 | 341 |
+| 30d | 2026-10-01 | 64 | 1 | 5 | 50 | 207 | 14 |
+| last60d | 2026-09-01 | 100 | 6 | 12 | 136 | 447 | 28 |
+| 90d | 2026-08-02 | 100 | 9 | 19 | 255 | 655 | 36 |
+| last180d | 2026-05-04 | 100 | 9 | 34 | 787 | 1261 | 72 |
+| 360d | 2025-11-05 | 100 | 43 | 46 | 2243 | 2088 | 241 |
+| last720d | 2024-11-10 | 100 | 48 | 46 | 2589 | 2144 | 342 |
 
 ## Release assets
 
@@ -89,4 +91,4 @@ Install metadata for copilot-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T04:46:47Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T04:31:05Z._

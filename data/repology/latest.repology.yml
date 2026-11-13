@@ -1,14 +1,12 @@
-- repo: nix_stable_25_05
-  srcname: copilot-cli
+- repo: scoop
+  subrepo: main
+  binname: copilot-cli
   visiblename: copilot-cli
-  version: 1.34.1
+  version: 1.0.110
   origversion: null
-  status: newest
-  summary: Build, Release and Operate Containerized Applications on AWS
-  maintainers:
-    - c@jia.je
+  status: outdated
   licenses:
-    - Apache-2.0
+    - GitHub Copilot CLI License
 - repo: aur
   srcname: copilot-cli
   binname: copilot-cli
@@ -36,7 +34,7 @@
 - repo: homebrew_casks
   srcname: copilot-cli
   visiblename: GitHub Copilot CLI
-  version: 1.0.109
+  version: 1.0.110
   origversion: null
   status: outdated
   summary: Brings the power of Copilot coding agent directly to your terminal
@@ -44,7 +42,7 @@
   srcname: llm/copilot-cli
   binname: copilot-cli
   visiblename: copilot-cli
-  version: 1.0.109
+  version: 1.0.110
   origversion: null
   status: outdated
   summary: GitHub Copilot CLI -- AI-powered coding assistant in the terminal
@@ -77,6 +75,17 @@
     - c@jia.je
   licenses:
     - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: copilot-cli
+  visiblename: copilot-cli
+  version: 1.34.1
+  origversion: null
+  status: newest
+  summary: Build, Release and Operate Containerized Applications on AWS
+  maintainers:
+    - c@jia.je
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_25_11
   srcname: copilot-cli
   visiblename: copilot-cli
@@ -88,12 +97,3 @@
     - c@jia.je
   licenses:
     - Apache-2.0
-- repo: scoop
-  subrepo: main
-  binname: copilot-cli
-  visiblename: copilot-cli
-  version: 1.0.109
-  origversion: null
-  status: outdated
-  licenses:
-    - GitHub Copilot CLI License

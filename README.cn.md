@@ -30,28 +30,28 @@ x install copilot-cli
 
 ## 发布
 
-- **最新版本**: `v1.0.117-2` (2026-11-25)
+- **最新版本**: `v1.0.117-5` (2026-11-25)
 - **最近提交**: 2026-11-25
 - **Release 含资产**: 20 个
 
 ## 流行度
 
-- **Star**: 11,472 · **Fork**: 1,981 · **开放 issue**: 4,978 · **贡献者**: 251
+- **Star**: 11,474 · **Fork**: 1,978 · **开放 issue**: 4,989 · **贡献者**: 250
 
 ## 累计统计
 
-- **发布数**: 574 · **已合并 PR**: 56 · **开放 PR**: 44 · **已关闭 issue**: 2844 · **开放 issue**: 2134 · **提交数**: 365
+- **发布数**: 577 · **已合并 PR**: 56 · **开放 PR**: 44 · **已关闭 issue**: 2845 · **开放 issue**: 2144 · **提交数**: 365
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 57 | 5 | 4 | 44 | 243 | 23 |
-| last60d | 2026-09-27 | 100 | 5 | 9 | 156 | 409 | 38 |
-| 90d | 2026-08-28 | 100 | 10 | 15 | 277 | 586 | 50 |
-| last180d | 2026-05-30 | 100 | 13 | 31 | 740 | 1107 | 78 |
-| 360d | 2025-12-01 | 100 | 47 | 44 | 2378 | 2051 | 253 |
-| last720d | 2024-12-06 | 100 | 52 | 44 | 2844 | 2134 | 365 |
+| 30d | 2026-10-28 | 57 | 5 | 4 | 42 | 247 | 23 |
+| last60d | 2026-09-28 | 100 | 5 | 9 | 151 | 415 | 38 |
+| 90d | 2026-08-29 | 100 | 10 | 14 | 278 | 597 | 50 |
+| last180d | 2026-05-31 | 100 | 13 | 31 | 734 | 1113 | 78 |
+| 360d | 2025-12-02 | 100 | 47 | 44 | 2375 | 2059 | 253 |
+| last720d | 2024-12-07 | 100 | 52 | 44 | 2845 | 2144 | 365 |
 
 ## Release 资产
 
@@ -78,10 +78,6 @@ x install copilot-cli
 | [github-copilot-1.0.116.tgz](https://github.com/github/copilot-cli/releases/download/v1.0.116/github-copilot-1.0.116.tgz) | 6.3 KiB | `native/unknown` |
 | [SHA256SUMS.txt](https://github.com/github/copilot-cli/releases/download/v1.0.116/SHA256SUMS.txt) | 1.7 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/copilot-cli) 上共有 **9** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
-
 ## 改进这些数据
 
 copilot-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `copilot-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -91,4 +87,4 @@ copilot-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T07:15:06Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T07:11:22Z._

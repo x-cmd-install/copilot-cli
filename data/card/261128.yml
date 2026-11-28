@@ -1,0 +1,129 @@
+about:
+  description: "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. "
+  license: NOASSERTION
+  homepage: 
+  head: 9e146c6
+  archived: false
+  latestVersion: "v1.0.118-2"
+  latestRelease: "v1.0.117"
+  latestPrerelease: "v1.0.118-2"
+  collectedAt: 2026-11-28T06:44:02Z
+timeline:
+  created: 2023-01-06
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-27
+  lastPrerelease: 2026-11-28
+popularity:
+  star: 11473
+  watcher: 266
+  fork: 1978
+  release: 581
+  contributor: 250
+  pullRequest: 214
+  issue: 4998
+language:
+  Python: 14724
+  Shell: 9019
+  Dockerfile: 3078
+totalBytes: 26821
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 60
+    mergedPR: 5
+    openPR: 4
+    closedIssue: 38
+    openIssue: 251
+    commit: 24
+  last60d:
+    since: 2026-09-29
+    release: 100
+    mergedPR: 5
+    openPR: 8
+    closedIssue: 147
+    openIssue: 415
+    commit: 39
+  last90d:
+    since: 2026-08-30
+    release: 100
+    mergedPR: 10
+    openPR: 14
+    closedIssue: 276
+    openIssue: 599
+    commit: 51
+  last180d:
+    since: 2026-06-01
+    release: 100
+    mergedPR: 13
+    openPR: 31
+    closedIssue: 729
+    openIssue: 1112
+    commit: 79
+  last360d:
+    since: 2025-12-03
+    release: 100
+    mergedPR: 47
+    openPR: 44
+    closedIssue: 2372
+    openIssue: 2063
+    commit: 254
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 52
+    openPR: 44
+    closedIssue: 2847
+    openIssue: 2151
+    commit: 366
+total:
+  release: 581
+  mergedPR: 56
+  openPR: 44
+  closedIssue: 2847
+  openIssue: 2151
+  commit: 366
+---
+path: /home/runner/.x-repo/github.com/github/copilot-cli
+collectedAt: 2026-11-28T06:44:03Z
+loc:
+  Python:
+    code: 295
+    comments: 1
+    blanks: 51
+    files: 1
+  Sh:
+    code: 196
+    comments: 27
+    blanks: 22
+    files: 2
+  Dockerfile:
+    code: 50
+    comments: 13
+    blanks: 7
+    files: 2
+  Markdown:
+    code: 0
+    comments: 5853
+    blanks: 562
+    files: 4
+total:
+  code: 624
+  comments: 5894
+  blanks: 643
+  files: 9
+---
+
+---
+  - tree-sitter.wasm
+  - rg
+  - tgrep
+  - index.mjs
+  - webviewjs
+  - webview
+  - pv_recorder.LICENSE
+  - foundry-local-sdk.LICENSE
+  - cli-native.node
+  - copilot-voice
+  - runtime.node
+  - copilot-runtime
